@@ -70,7 +70,7 @@ p {
 /*layout*/
 
 body {
-	background: url('img/satinweave.png') repeat left top;
+	background: rgb(235,225,191) url('img/satinweave.png') repeat left top;
 }
 #main-content {
 	position: relative;
