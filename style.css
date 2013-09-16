@@ -54,3 +54,73 @@ table {
 
 /*typography*/
 
+i {
+	font-style: italic;
+}
+h2 {
+	text-align: center;
+	font-weight: 300;
+	font-size: 2.618em;
+	color: rgb(112,57,91);
+}
+p {
+	color: rgb(80,80,80);
+	padding: 10px 30px;
+}
+/*layout*/
+
+body {
+	background: url('img/satinweave.png') repeat left top;
+}
+#main-content {
+	position: relative;
+	width: 900px;
+	margin: 30px auto;
+}
+section {
+	margin: 30px;
+}
+hr {
+	border: 0;
+	height: 0;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+#main-image {
+	position: relative;
+	width: 23%;
+	margin: 0 auto;
+	max-width: 300px;
+}
+#main-image img {
+	width: 100%;
+	border-radius: 50%;
+	box-shadow: 0px 3px 7px rgba(0,0,0,0.3);
+}
+
+/*Media queries*/
+
+@media screen and (max-width: 800px) {
+
+#main-content {
+	width: 98%;
+}
+#main-image {
+	width: 30%;
+}
+}
+@media screen and (max-width: 480px) {
+
+#main-content {
+	width: 100%;
+}
+#main-image {
+	width: 50%;
+}
+section {
+	margin: 0;
+}
+p {
+	padding: 15px;
+}
+}
