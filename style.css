@@ -53,6 +53,11 @@ table {
 
 /*typography styling*/
 
+a {
+	color: rgb(70,133,137);
+	text-decoration: none;
+	border-bottom: 1px dotted;
+}
 i {
 	font-style: italic;
 }
@@ -65,11 +70,6 @@ h2 {
 p {
 	color: rgb(80,80,80);
 	padding: 10px 30px;
-}
-a {
-	color: rgb(70,133,137);
-	text-decoration: none;
-	border-bottom: 1px dotted;
 }
 
 /*layout*/
