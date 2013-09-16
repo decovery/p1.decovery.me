@@ -122,6 +122,7 @@ hr {
 
 #main-content {
 	width: 100%;
+	max-width: 150px;
 }
 #main-image {
 	width: 50%;
