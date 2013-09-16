@@ -122,10 +122,10 @@ hr {
 
 #main-content {
 	width: 100%;
-	max-width: 150px;
 }
 #main-image {
 	width: 50%;
+	max-width: 150px;
 }
 section {
 	margin: 0;
