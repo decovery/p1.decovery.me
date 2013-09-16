@@ -113,7 +113,6 @@ hr {
 }
 #main-image {
 	width: 30%;
-	max-width: 200px;
 }
 }
 
@@ -125,7 +124,6 @@ hr {
 }
 #main-image {
 	width: 50%;
-	max-width: 170px;
 }
 section {
 	margin: 0;
