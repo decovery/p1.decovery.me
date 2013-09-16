@@ -30,7 +30,6 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-
 body {
 	line-height: 1.5;
 	-webkit-font-smoothing: antialiased;
@@ -67,6 +66,7 @@ p {
 	color: rgb(80,80,80);
 	padding: 10px 30px;
 }
+
 /*layout*/
 
 body {
@@ -100,7 +100,8 @@ hr {
 
 /*Media queries*/
 
-@media screen and (max-width: 800px) {
+/*tablets*/
+@media screen and (max-width: 800px) { 
 
 #main-content {
 	width: 98%;
@@ -109,7 +110,9 @@ hr {
 	width: 30%;
 }
 }
-@media screen and (max-width: 480px) {
+
+/*smartphones*/
+@media screen and (max-width: 480px) { 
 
 #main-content {
 	width: 100%;

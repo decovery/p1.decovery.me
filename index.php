@@ -3,9 +3,10 @@
 
 <head>
 <meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width" />
 <link rel="stylesheet" href="style.css" />
 <link  rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300" />
-<title>Project 1</title>
+<title>Aiste Ciurlyte Kolesnicenko | Project 1</title>
 </head>
 
 <body>
