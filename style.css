@@ -113,6 +113,7 @@ hr {
 }
 #main-image {
 	width: 30%;
+	max-width: 200px;
 }
 }
 
