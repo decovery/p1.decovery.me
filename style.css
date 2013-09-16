@@ -125,6 +125,7 @@ hr {
 }
 #main-image {
 	width: 50%;
+	max-width: 150px;
 }
 section {
 	margin: 0;
