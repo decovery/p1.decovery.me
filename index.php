@@ -18,12 +18,12 @@
 			<h2>Bio</h2>
 			<p>My name is Aiste <i>(pronounced somewhat as Ice tea)</i>. I’m taking the course completely online as I live in Europe, small country called Lithuania.</p>
 			<p>This is my first course at HES towards Web technologies certificate.</p>
-			<p>I work as web designer for a few recent years and I’m passionate about CSS and Responsive web design.</p>
+			<p>I work as a web designer and I’m passionate about CSS and Responsive web design. You can see it in action by resizing your browser window. &rarr;</p>
 			<hr />
 		</section>
 		<section>
 			<h2>Code editor</h2>
-			<p>I use a code editor called Espresso by MacRabbit.</p>
+			<p>I use a code editor called <a href="http://macrabbit.com/espresso/" target="_blank">Espresso</a> by MacRabbit.</p>
 			<hr />
 		</section>
 	</div>
